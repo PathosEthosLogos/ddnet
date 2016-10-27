@@ -8,7 +8,7 @@
 ##### translated strings #####
 
 %d%% loaded
-== %d%% 로딩...
+== %d%% 로딩 됨
 
 %ds left
 == %d 초 후 취소
@@ -26,13 +26,13 @@
 == %i 초 남음
 
 %s wins!
-== %s (이)가 이김!
+== %s 승리!
 
 -Page %d-
 == -Page %d-
 
 Abort
-== 중단
+== 취소
 
 Add
 == 추가
@@ -811,7 +811,7 @@ Spectating
 == 
 
 Spectators aren't allowed to start a vote.
-== 
+== 관람자들은 투표를 시작 할 수가 없습니다.
 
 Standard Gametype
 == 
@@ -844,19 +844,19 @@ Texture
 == 
 
 Volume
-== 
+== 음량
 
 Vote aborted
-== 
+== 투표 취소
 
 Vote failed
-== 
+== 투표 부결
 
 Vote passed
-== 
+== 투표 가결
 
 Wait for current vote to end before calling a new one.
-== 
+== 진행 되고 있는 투표를 기다려야 투표 실시 할 수 있습니다
 
 Wait for next round
 == 
@@ -865,7 +865,7 @@ Wide
 == 
 
 You must wait %d seconds before making another vote
-== 
+== 투표는 %d초 후에 다시 실시 됩니다 
 
 blue
 == 
@@ -894,7 +894,7 @@ New name:
 == 새 이름:
 
 Max demos
-== 최대 데모
+== 최대 리플레이
 
 Internet
 == 인터넷
@@ -999,7 +999,7 @@ Current version: %s
 == 현재 버전: %s
 
 Name plates size
-== 크기
+== 이름 글꼴 크기
 
 Type:
 == 종류:
