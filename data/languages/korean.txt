@@ -112,7 +112,7 @@ Controls
 == 조작
 
 Count players only
-== Count players only
+== 플레이어만 세기
 
 Country
 == 국가
@@ -1002,4 +1002,3 @@ Name plates size
 
 Type:
 == 종류:
-
